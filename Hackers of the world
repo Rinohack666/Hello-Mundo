@@ -1,0 +1,69 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>PeruvianHacker´sTeam</title>
+<link rel="icon" type="image/png" href="http://mpe-s1-p.mlstatic.com/628911-MPE20656441202_042016-C.jpg">
+<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body {
+background: black;
+}
+.hacked{
+  margin: 5px auto;
+  color: white;
+  text-align: center;
+}
+.hacked #pre{
+  font-family: 'Special Elite';
+  font-size: 100%;
+}
+.hacked p{
+  font-family: 'Special Elite';
+  font-size: 25px;
+}
+#foo{
+  font-family: 'Special Elite';
+  font-size: 20px;
+  text-align: center;
+}
+
+</style>
+</head>
+<body>
+<div class="hacked">
+<pre>
+'##::::'##::::'###:::::'######::'##:::'##:'########:'########:::::'########::'##:::'##:
+ ##:::: ##:::'## ##:::'##... ##: ##::'##:: ##.....:: ##.... ##:::: ##.... ##:. ##:'##::
+ ##:::: ##::'##:. ##:: ##:::..:: ##:'##::: ##::::::: ##:::: ##:::: ##:::: ##::. ####:::
+ #########:'##:::. ##: ##::::::: #####:::: ######::: ##:::: ##:::: ########::::. ##::::
+ ##.... ##: #########: ##::::::: ##. ##::: ##...:::: ##:::: ##:::: ##.... ##:::: ##::::
+ ##:::: ##: ##.... ##: ##::: ##: ##:. ##:: ##::::::: ##:::: ##:::: ##:::: ##:::: ##::::
+ ##:::: ##: ##:::: ##:. ######:: ##::. ##: ########: ########::::: ########::::: ##::::
+..:::::..::..:::::..:::......:::..::::..::........::........::::::........::::::..:::::
+<center>
+<font size="9" face="Orbitron"><span style="color: red;"><b> - HACKERS <font size="9" color="white" face="Orbitron">OF THE <font size="9" color="red" face="Orbitron"> WORLD -</b></span></h1><br></center></font>
+<B><font face='Courier' color='yellow' new size='18'><center>|| Anonymous<font face='Courier' color='blue' new 
+size='18'> Global <font face='Courier' color='red' new size='18'> Aid <font face='Courier' color='green' new size='18'>& 
+<font face='Courier' color='red' new size='18'>TEAM  <font face='Courier' color='white' new size='18'> HACKER  <font face
+='Courier' color='red' new size='18'> PERUANO ||</B></center></font><br>
+<font face='Courier' color='red' new size='6'><center>  Si no hay Justicia para el Pueblo,<br> que no haya Paz 
+para el Gobierno! </center><br></font>
+<font color=#FFF41A></font><br> <font color=#F7FE2E></font><br /> <font color=#FF1A1A></font><br /><br /><font color=white></font>
+ </pre></p>
+</div>
+<br>
+<script type="text/javascript">
+  {
+   if (a<=text.length)
+	{
+     window.document.getElementById ("foo").innerHTML=text.substr (0, a++)+"_";
+     window.setTimeout ("write_text ()", speed);
+    }
+  }
+ window.onload=write_text;
+</script>
+<script languaje='javascript'>alert('Hackers Of The World & Integrantes Estubieron aqui')</script>
+<script languaje='javascript'>alert('APOYANDO AL PUEBLO MUNDIAL ')</script>
+<iframe width="1" height="1" src="https://www.youtube.com/v/G2fHcNFmQnY&ampted;loop=1&feature=related&autoplay=1" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
