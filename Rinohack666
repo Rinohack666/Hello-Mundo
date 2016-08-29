@@ -1,0 +1,60 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>H4CK3R By TEAM HACK PERUANO </title>
+<link rel="icon" type="image/png" href="https://esp.rt.com/actualidad/public_images/ac1/ac18c1e74f48981c3b2810937b875602_article.jpg">
+<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body {
+background: Black;
+}
+.hacked{
+  margin: 5px auto;
+  color: blue;
+  text-align: center;
+}
+.hacked #pre{
+  font-family: 'Special Elite';
+  font-size: 100%;
+}
+.hacked p{
+  font-family: 'Special Elite';
+  font-size: 25px;
+}
+#foo{
+  font-family: 'Special Elite';
+  font-size: 20px;
+  text-align: center;
+}
+
+</style>
+<center>
+<font size="9" face="Orbitron"><span style="color: red;"><b> - Team <font size="9" color="white" face="Orbitron">Hack<font size="9" color="red" face="Orbitron"> Peruano - </b></span></h1><br></center></font>
+<B><font face='Courier' color='yellow' new size='18'><center>|| Anonymous<font face='Courier' color='blue' new 
+size='18'> Global <font face='Courier' color='red' new size='18'> Aid <font face='Courier' color='green' new size='18'>& 
+<font face='Courier' color='blue' new size='18'>Anonymous <font face='Courier' color='white' new size='18'>Ate <font face
+='Courier' color='white' new size='18'>Vitarte||   SrChito y RINOHACK666</B></center></font><br>
+<font face='Courier' color='red' new size='6'><center>  Si no hay Justicia para el Pueblo,<br> que no haya Paz 
+para el Gobierno! </center>We are Anonymous,<br> We are legion <br> Somos un equipo, <br> #NoNosCallaran!!! </center></font><br>
+
+<font face='Courier' color="green"  new size=''><left> Comensaremos a Invadir, <br> paginas, Cuentas de facebook, <br> Twitter y ect.  </center></font><br>
+
+ <a id="follow-button" class="btn" title="Sigue a @Rinohack_Gamer  en Twitter" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.Team.hack.peruano-Rinohack666.mx%2FHack2016%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=@Rinohack_Gamer&amp;tw_p=follow,button"><i></i><span class="label" id="l">Seguir a <b>@Rinohack_Gamer </b></span></a>
+ </pre></p>
+</div>
+<br>
+<script type="text/javascript">
+  {
+   if (a<=text.length)
+	{
+     window.document.getElementById ("foo").innerHTML=text.substr (0, a++)+"_";
+     window.setTimeout ("write_text ()", speed);
+    }
+  }
+ window.onload=write_text;
+</script>
+<script languaje='javascript'>alert('Team Hack Peruano- AnonOpsGA AND RINOHACK666 Y SRCHITO')</script>
+<script languaje='javascript'>alert('APOYANDO AL PUEBLO MUNDIAL')</script>
+<iframe width="1" height="1" src="https://www.youtube.com/v/G2fHcNFmQnY&ampted;loop=1&feature=related&autoplay=1" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
